@@ -1,5 +1,5 @@
 
-""Enchanté, moi c'est Hassan Ighil. Je débute dans le monde de l'informatique depuis 1 semaine et j'apprends très vite les bases et plus encore. Je suis quelqu'un qui apprend rapidement et qui s'adapte très vite au nouvel environnement.
+Enchanté, moi c'est Hassan Ighil. Je débute dans le monde de l'informatique depuis 1 semaine et j'apprends très vite les bases et plus encore. Je suis quelqu'un qui apprend rapidement et qui s'adapte très vite au nouvel environnement.
 
 
 
