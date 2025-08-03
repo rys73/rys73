@@ -19,6 +19,6 @@ Enchanté, moi c'est Hassan Ighil. Je débute dans le monde de l'informatique de
 - Créer un footer ou header, et bien d'autres missions...
 - 💬 N'hésitez pas à me contacter pour des missions non rémunérées (je suis là pour évoluer).
 
--->
+--!>
 
 -->
