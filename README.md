@@ -1,9 +1,4 @@
 
-<!--
-**rys73/rys73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ""Enchanté, moi c'est Hassan Ighil. Je débute dans le monde de l'informatique depuis 1 semaine et j'apprends très vite les bases et plus encore. Je suis quelqu'un qui apprend rapidement et qui s'adapte très vite au nouvel environnement.
 
 
@@ -19,6 +14,5 @@ Here are some ideas to get you started:
 - Créer un footer ou header, et bien d'autres missions...
 - 💬 N'hésitez pas à me contacter pour des missions non rémunérées (je suis là pour évoluer).
 
---!>
 
--->
+
