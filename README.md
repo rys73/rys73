@@ -8,9 +8,10 @@
 - Corriger du CSS cassé
 - Modifier un texte/couleur/bouton
 - Créer un footer ou header, et bien d'autres missions...
-- Pandas (je peut également convertir des fichier dans différents formats)
-- Web Scrapping
-- ...
+- **Python** (niveau intermédiaire)
+- **Pandas** (je peut également convertir des fichier dans différents formats)
+- **Web Scrapping**
+- **...**
 - 💬 N'hésitez pas à me contacter pour des missions non rémunérées (je suis là pour évoluer).
 
 
