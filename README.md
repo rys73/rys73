@@ -11,7 +11,8 @@
 - **Python** (niveau intermédiaire)
 - **Pandas** (je peut également convertir des fichier dans différents formats)
 - **Web Scrapping**
-- **C++ (80%)**
+- **C (40-50%)**
+- **C++ (70-80%)**
 - **...**
 - 💬 N'hésitez pas à me contacter pour des missions non rémunérées (je suis là pour évoluer).
 
