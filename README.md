@@ -1,5 +1,5 @@
-# Bonjour, je suis Hassan Ighil
-# Freelance Python | Data Analysis | Web Scraping | Automatisation de données
+## Bonjour, je suis Hassan Ighil
+Freelance Python | Data Analysis | Web Scraping | Automatisation de données
 
 Je transforme les données brutes en informations exploitables et aide les entreprises à soulager les tâches lourdes et répétitives grâce à Python, Pandas, APIs et automatisation.
 
