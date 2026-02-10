@@ -11,7 +11,6 @@ Data Visualization : Création de dashboards et rapports PDF clairs et professio
 Gestion de projets courts ou longs : Flexibilité selon vos besoins et objectifs.
 
 ## Ce qui me distingue
-Je prends en charge les gros volumes de données et les tâches répétitives pour que vos équipes puissent se concentrer sur l’essentiel.
-Mes projets sont lisibles, documentés et prêts à l’usage.
-Je peux travailler sur des missions ponctuelles ou des projets sur le long terme.
-
+Ce qui me distingue des autres freelances, c’est ma capacité à prendre en charge l’ensemble du cycle data : collecte depuis des sites web ou APIs, automatisation, nettoyage, structuration et livraison de données propres, fiables et directement exploitables.
+Là où beaucoup livrent uniquement du code, je livre des résultats clairs, lisibles et prêts à l’usage métier, en absorbant la charge technique et opérationnelle afin de faire gagner du temps réel aux équipes.
+J’interviens sur des missions ciblées ou complètes avec une approche pragmatique et des tarifs volontairement optimisés, adaptés aux PME, startups et agences souhaitant un fort impact sans surcoût.
