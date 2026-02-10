@@ -1,22 +1,17 @@
+# Bonjour, je suis Hassan Ighil
+# Freelance Python | Data Analysis | Web Scraping | Automatisation de données
 
-- 🔭 Je suis actuellement sur plusieurs projets comme le **pandas**, sur les données des entreprises pour les rendrent plus lisibles et faire de reporting pour determine les pointsb faibles ou points faibles d'une entreprise.
-  - 🌱 Chaque jour qui s'écoule est un jour où j'apprends plus et où je me rapproche de la maîtrise.
-    - 🤔 Je suis disons nouveau mais je peux convenablement faire les missions comme: 
-- A la création d'une landing page simple
-- Rendre un site responsive 
-- Intégration d'une maquette HTML/CSS
-- Corriger du CSS cassé
-- Modifier un texte/couleur/bouton
-- Créer un footer ou header, et bien d'autres missions...
-- **Python** (niveau intermédiaire)
-- **Pandas** (je peut également convertir des fichier dans différents formats)
-- **Web Scrapping**
-- **C (40-50%)**
-- **C++ (70-80%)**
-- **...**
-- 💬 N'hésitez pas à me contacter pour des missions non rémunérées (je suis là pour évoluer).
+Je transforme les données brutes en informations exploitables et aide les entreprises à soulager les tâches lourdes et répétitives grâce à Python, Pandas, APIs et automatisation.
 
+## Compétences clés
+Python & Pandas : Analyse de gros volumes de données, nettoyage, transformation, reporting.
+Web Scraping & APIs : Extraction de données depuis des sites web et intégration dans vos systèmes.
+Automatisation & Workflow : Scripts pour automatiser vos tâches répétitives et gagner du temps.
+Data Visualization : Création de dashboards et rapports PDF clairs et professionnels.
+Gestion de projets courts ou longs : Flexibilité selon vos besoins et objectifs.
 
-
-
+## Ce qui me distingue
+Je prends en charge les gros volumes de données et les tâches répétitives pour que vos équipes puissent se concentrer sur l’essentiel.
+Mes projets sont lisibles, documentés et prêts à l’usage.
+Je peux travailler sur des missions ponctuelles ou des projets sur le long terme.
 
